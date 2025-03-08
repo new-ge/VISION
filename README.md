@@ -33,18 +33,18 @@ Vinícius Chaves| Developer |<a href="https://github.com/ChavesVini"><img src="h
      
 <summary>Clique aqui</summary>
 
-Itens |
--- |
-Criar um dashboard com os indicadores:|
-Quantidade de cards por etiqueta;|
-Quantidade de cards criados por período;| 
-Quantidade de cards finalizados por período;| 
-Quantidade de cards por status (coluna do kanban);| 
-Tempo médio de execução do card;|
-Cards por colaborador;|
-Retrabalhos.|
-Indicadores poderão ser acessados por níveis de acesso (times diferentes);| 
-Criar uma API para integração com outro sistema (Trello, Jira...);|
+**ID**|**Itens** |
+-- | --|
+RF1|Criar um dashboard com os indicadores:|
+RF2|Quantidade de cards por etiqueta;|
+RF3|Quantidade de cards criados por período;| 
+RF4|Quantidade de cards finalizados por período;| 
+RF5|Quantidade de cards por status (coluna do kanban);| 
+RF6|Tempo médio de execução do card;|
+RF7|Cards por colaborador;|
+RF8|Retrabalhos.|
+RF9|Indicadores poderão ser acessados por níveis de acesso (times diferentes);| 
+RF10|Criar uma API para integração com outro sistema (Trello, Jira...);|
 </details>
 
 ## Requisitos Não Funcionais
@@ -53,12 +53,12 @@ Criar uma API para integração com outro sistema (Trello, Jira...);|
      
 <summary>Clique aqui</summary>
 
-Itens |
--- |
-Documentação API – Application Programming Interface;|
-Responsivo;|
-Manual do Usuário;|
-Modelagem de Banco de Dados;| 
+**ID**|**Itens** |
+-- | --|
+RFN1|Documentação API – Application Programming Interface;|
+RFN2|Responsivo;|
+RFN3|Manual do Usuário;|
+RFN4|Modelagem de Banco de Dados;| 
 
 
 </details>
@@ -66,6 +66,25 @@ Modelagem de Banco de Dados;|
 <span id="backlog">
      
 ## Product Backlog 🔍
+
+
+| **Rank** | **Épico** | **User Storie** | **Sprint** | **Requisito do Parceiro** |  
+|---------|-----------|-----------------|---------------|--------------------------|  
+| 1 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição das minhas tarefas. | 1 | RF1, RF2 |  
+| 2 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das minhas tarefas. | 1 | RF1, RF3, RFN2, RFN3 |  
+| 3 | Dashboard de Indicadores | Como um operador, quero visualizar o tempo médio de execução de cards, para que eu possa analisar a minha eficiência no processo de desenvolvimento. | 1 | RF1, RF6, RFN2 |  
+| 4 | Dashboard de Indicadores | Como um operador, quero visualizar os retrabalhos, para que eu possa acompanhar os meus cards que retornaram para o desenvolvimento devido a bugs. | 1 | RF1, RF8, RFN2 |  
+| 5 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 2 | RF1, RF5 |  
+| 6 | Dashboard de Indicadores | Como um admin, quero visualizar o tempo médio de execução de cards, para que eu possa analisar a eficiência no processo de desenvolvimento. | 2 | RF1, RF6 |  
+| 7 | Dashboard de Indicadores | Como um admin, quero visualizar os cards por colaborador, para que eu possa analisar a distribuição de tarefas. | 2 | RF1, RF7 |  
+| 8 | Dashboard de Indicadores | Como um admin, quero visualizar os retrabalhos, para que eu possa acompanhar os cards que retornaram para o desenvolvimento devido a bugs. | 2 | RF1, RF8 |  
+| 9 | Dashboard de Indicadores | Como gestor, quero visualizar indicadores de meu time, para que eu possa avaliar a performance dos colaboradores e do time como um todo. | 2 | RF1, RNF2 |  
+| 10 | Dashboard de Indicadores | Como gestor, quero visualizar os retrabalhos relacionados ao meu projeto, para que eu possa monitorar a qualidade do trabalho e identificar áreas que precisam de melhorias. | 2 | RF1, RF8 |  
+| 11 | Níveis de Acesso | Como admin, quero configurar os níveis de acesso para diferentes tipos de usuários (Operador, Gestor, Admin), para garantir que as permissões sejam corretamente atribuídas. | 3 | RF9, RFN1, RFN4 |  
+| 12 | Gestão de Acessos | Como admin, quero garantir que apenas um único gestor tenha acesso aos projetos do seu time, para evitar conflitos de acesso entre diferentes gestores. | 3 | RF9, RFN1, RFN4 |  
+| 13 | Dashboard de Indicadores | Como um admin, quero visualizar indicadores relacionados a todos os cards de todos os times, para que eu possa acompanhar a carga de trabalho e a distribuição das tarefas. | 3 | RF01, RFN01, RFN02, RFN03 |  
+| 14 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição tarefas. | 3 | RF1, RF2 |  
+| 15 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das tarefas ao longo do tempo. | 3 | RF1, RF3 |  
 
 
 <span id="cronograma">
