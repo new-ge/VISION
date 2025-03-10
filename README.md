@@ -1,5 +1,4 @@
-# VISION
-
+![Image](https://github.com/user-attachments/assets/ec1d49a8-64c7-41c8-af4a-3772f4eaadf8)
 <span id="sobre">
 
   ## Sobre 
@@ -165,7 +164,12 @@ Feira de Soluções| 29/05/2024| -------------
 
 <span id="docs">
 
-<!--// ## Documentação 📜
+<!--// ## Documentação 📜-->
 
 
-<span id="tecnologias">--> 
+  
+## Tecnologias Utilizadas 💻
+  
+![Image](https://github.com/user-attachments/assets/49427173-e0bf-4d53-9807-334fe0ab5dcc)
+
+<span id = tecnologias>
