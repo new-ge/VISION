@@ -1,0 +1,6 @@
+[submodule "API_5SEM_BACK-END"]
+	path = API_5SEM_BACK-END
+	url = https://github.com/new-ge/API_5SEM_BACK-END.git
+[submodule "API_5SEM_FRONT-END"]
+	path = API_5SEM_FRONT-END
+	url = https://github.com/new-ge/API_5SEM_FRONT-END.git
