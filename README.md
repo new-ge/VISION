@@ -68,10 +68,10 @@ RFN4|Modelagem de Banco de Dados;|
 
 | **Rank** | **Épico** | **User Storie** | **Estimativa** | **Requisito do Parceiro** | **Status**|
 |---------|-----------|-----------------|---------------|--------------------------|---------------|
-| 1 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição das minhas tarefas. | 1 | RF1, RF2 | 🔧 | 
-| 2 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das minhas tarefas. | 1 | RF1, RF3, RFN2, RFN3 | 🔧 | 
-| 3 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards finalizados por período para que eu possa acompanhar a entrega de tarefas ao longo do tempo. | 1 | RF1, RF4, RFN2 | 🔧 | 
-| 4 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 1 | RF1, RF5 | 🔧 | 
+| 1 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição das minhas tarefas. | 1 | RF1, RF2 | ✅ | 
+| 2 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das minhas tarefas. | 1 | RF1, RF3, RFN2, RFN3 | ✅ | 
+| 3 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards finalizados por período para que eu possa acompanhar a entrega de tarefas ao longo do tempo. | 1 | RF1, RF4, RFN2 | ✅ | 
+| 4 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 1 | RF1, RF5 | ✅ | 
 | 5 | Dashboard de Indicadores | Como um operador, quero visualizar o tempo médio de execução de cards, para que eu possa analisar a minha eficiência no processo de desenvolvimento. | 2 | RF1, RF6, RFN2 | ⛔ |
 | 6 | Dashboard de Indicadores | Como um operador, quero visualizar os retrabalhos, para que eu possa acompanhar os meus cards que retornaram para o desenvolvimento devido a bugs. | 2 | RF1, RF8, RFN2 | ⛔ |
 | 7 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 2 | RF1, RF5 | ⛔ | 
@@ -149,6 +149,29 @@ Feira de Soluções| 29/05/2024| -------------
 </details>
 
 <span id="docs">
+
+## Testes SonarQube 📑
+<details>
+     
+<summary>Sprint 1</summary>
+
+<img src="https://github.com/user-attachments/assets/12e993ec-f295-4136-b792-162460b5e3ec">
+
+</details>
+
+<details>
+
+<summary>Sprint 2</summary>
+
+</details>
+
+<details>
+
+<summary>Sprint 3</summary>
+
+
+</details>
+
 
 <!--// ## Documentação 📜-->
 
