@@ -121,6 +121,11 @@ Feira de Soluções| 29/05/2024| -------------
 
 <p>A equipe conseguiu concluir todas as entregas planejadas dentro do prazo, garantindo que o cliente recebesse o dashboard conforme especificado. 🚀</p>
 
+ <details>
+    <summary>VISION - Tela Operador (Sprint 1) </summary>
+    <img src="https://github.com/user-attachments/assets/4453ff97-9923-48d2-af6a-29099248f3e0">
+  </details>
+
 
 <h1>Sprint 1 - Relatório de Resultados</h1>
 
