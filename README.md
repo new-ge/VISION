@@ -108,6 +108,55 @@ Feira de Soluções| 29/05/2024| -------------
      
 <summary>Sprint 1</summary>
 
+<h2>Objetivos da Sprint</h2>
+
+<p>Nesta sprint, foi planejada a entrega de um Dashboard com indicadores do Operador, incluindo:</p>
+
+<ul>
+  <li>✅ Quantidade de cards por etiqueta.</li>
+  <li>✅ Quantidade de cards criados por período.</li>
+  <li>✅ Quantidade de cards finalizados por período.</li>
+  <li>✅ Quantidade de cards por status.</li>
+</ul>
+
+<p>A equipe conseguiu concluir todas as entregas planejadas dentro do prazo, garantindo que o cliente recebesse o dashboard conforme especificado. 🚀</p>
+
+
+<h1>Sprint 1 - Relatório de Resultados</h1>
+
+<h2>Pontos Positivos</h2>
+
+<p>Durante esta sprint, a <strong>comunicação</strong> e <strong>colaboração</strong> entre a equipe foram pontos-chave para o sucesso da entrega. O time manteve um fluxo contínuo de informações, garantindo que todos estivessem alinhados com as demandas e objetivos.</p>
+
+<p>Além disso, a colaboração entre os membros da equipe foi essencial para otimizar o desenvolvimento. Houve um forte espírito de cooperação e compartilhamento de conhecimentos sempre que necessário. Esse trabalho conjunto refletiu diretamente na <strong>eficiência</strong> e <strong>qualidade</strong> da entrega, demonstrando o comprometimento de todos com o resultado final.</p>
+
+<p>Um dos grandes diferenciais desta sprint foi a criação de um <strong>grupo no Teams</strong>, centralizando todas as informações do processo, com acesso fácil para as dailys presenciais e remotas. Além disso, foram disponibilizados <strong>vídeos explicativos</strong> para guiar a equipe em pontos mais complexos do projeto, facilitando a consulta rápida e o entendimento de tarefas específicas.</p>
+
+<p>Esse formato contribuiu para a <strong>melhoria na produtividade</strong>, pois permitiu que todos estivessem alinhados e com acesso rápido ao conteúdo necessário, sem a necessidade de longas explicações. Isso garantiu mais eficiência nas entregas e uma sprint mais fluida.</p>
+
+  <details>
+    <summary>VISION - Organização do Time (Microsoft Teams)</summary>
+    <img src="https://github.com/user-attachments/assets/90f3baaa-90b4-4547-bfc2-34bd39c0b912" alt="Imagem da Sprint">
+  </details>
+
+<h2>Desafios e Obstáculos</h2>
+
+<p>Durante a sprint, enfrentamos alguns <strong>desafios</strong>, como níveis de conhecimento e visões muito diferentes entre os membros da equipe, o que exigiu alinhamentos contínuos. Além disso, o pouco tempo disponível, considerando a alta demanda de tarefas, gerou dificuldades na gestão do ritmo de trabalho. Também houve a adaptação de integrantes ao grupo e à rotina, o que exigiu tempo extra de integração.</p>
+
+<p>Outro obstáculo significativo foi a <strong>necessidade de ajustar a estrutura do banco de dados</strong> na primeira semana, o que impactou as tasks. Na última semana, tivemos que mudar o banco de dados, pois ele se mostrou incompatível com o SonarQube, o que gerou mais ajustes. Apesar desses desafios, conseguimos superá-los com colaboração e esforço conjunto, permitindo a conclusão da sprint dentro dos objetivos propostos.</p>
+
+<h2>Lições Aprendidas</h2>
+
+<p>Durante esta sprint, enfrentamos alguns desafios que nos trouxeram importantes lições. A <strong>divergência de conhecimentos e visões</strong> entre os membros exigiu alinhamentos constantes. Para a próxima sprint, será fundamental ter <strong>expectativas e responsabilidades mais claras</strong> desde o início, reduzindo a necessidade de ajustes ao longo do processo.</p>
+
+<p>O <strong>pouco tempo disponível</strong> e a <strong>alta demanda de tarefas</strong> dificultaram a gestão do ritmo de trabalho. Para melhorar, precisaremos de um <strong>planejamento mais realista</strong>, com <strong>priorização mais precisa</strong> das tarefas e do escopo.</p>
+
+<p>A <strong>adaptação dos integrantes</strong> já foi superada, e para futuras sprints, podemos focar em um <strong>processo de integração mais ágil</strong> para novos membros.</p>
+
+<p>A questão do <strong>ajuste da estrutura do banco de dados</strong> e a <strong>troca de banco de dados devido à incompatibilidade com o SonarQube</strong> foi resolvida, e <strong>não será mais necessário inserir tecnologias nas próximas sprints</strong>. No entanto, essa situação destacou a importância de <strong>validar requisitos técnicos e tecnológicos mais cedo</strong> no processo de planejamento para evitar retrabalho e ajustes imprevistos.</p>
+
+<p>O uso do <strong>Kanban</strong> na primeira sprint ajudou no acompanhamento das tasks, mas o <strong>burndown</strong> foi impactado pela forma como organizamos as tasks no Jira. Para a próxima sprint, <strong>continuaremos com o Kanban</strong>, mas ajustaremos a gestão das tarefas para possibilitar o uso eficaz do burndown, mantendo o acompanhamento do progresso de forma mais ágil e precisa.</p>
+
 
 </details>
 
