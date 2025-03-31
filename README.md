@@ -132,6 +132,7 @@ Feira de Soluções| 29/05/2024| -------------
      
 <summary>Sprint 1</summary>
 
+![image](https://github.com/user-attachments/assets/436c9005-8dcf-440f-abf0-a8d0d336483a)
 
 </details>
 
