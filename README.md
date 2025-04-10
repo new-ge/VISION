@@ -235,6 +235,6 @@ Feira de Soluções| 29/05/2024| -------------
   
 ## Tecnologias Utilizadas 💻
   
-![Image](https://github.com/user-attachments/assets/49427173-e0bf-4d53-9807-334fe0ab5dcc)
+![Image](https://github.com/user-attachments/assets/2faba05c-1bfc-4937-b29c-5250e36ef626)
 
 <span id = tecnologias>
