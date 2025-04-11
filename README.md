@@ -163,6 +163,8 @@ Feira de Soluções| 29/05/2024| -------------
 
 <p>O uso do <strong>Kanban</strong> na primeira sprint ajudou no acompanhamento das tasks, mas o <strong>burndown</strong> foi impactado pela forma como organizamos as tasks no Jira. Para a próxima sprint, <strong>continuaremos com o Kanban</strong>, mas ajustaremos a gestão das tarefas para possibilitar o uso eficaz do burndown, mantendo o acompanhamento do progresso de forma mais ágil e precisa.</p>
 
+<a href="https://www.canva.com/design/DAGisCtEoOY/fr7PqMjUKvOPr65X_Eoxkg/edit?utm_content=DAGisCtEoOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Apresentação da Sprint</a>
+
 
 </details>
 
@@ -229,7 +231,9 @@ Feira de Soluções| 29/05/2024| -------------
 </details>
 
 
-<!--// ## Documentação 📜-->
+## Documentação 📜
+
+<a href="https://www.figma.com/design/0fPK99OjIhPviwxL9N9pFi/Vision?node-id=0-1&t=aPUYPgpY4FKNfvbQ-1">Wireframe do Projeto</a>
 
 
   
