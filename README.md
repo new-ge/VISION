@@ -204,6 +204,7 @@ Feira de Soluções| 29/05/2024| -------------
 <summary>Sprint 2</summary>
 
 </details>
+![image](https://github.com/user-attachments/assets/177c200d-e34c-4ab6-a1a2-48d573c3a485)
 
 <details>
 
