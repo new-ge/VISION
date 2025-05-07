@@ -25,7 +25,6 @@ Nome | Função | Networking | Identificação
 --- | --- | --- | --- | 
 Amanda Vannucci | Scrum Master |   <a href="https://github.com/Amandavannuccic"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/amanda-vannucci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |    <a href="" ><img src="https://avatars.githubusercontent.com/u/127263243?v=4" width="60"></a>
 Guilherme Wunderlich | Product Owner | <a href="https://github.com/wunderlich-15"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white5" alt="GitHub"></a> <a href="https://www.linkedin.com/in/guilherme-wunderlich-aa56a2228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |<img src="https://avatars.githubusercontent.com/u/74203181?v=4" width="60">|
-Bahij Noureddine | Developer | <a href="https://github.com/BahijJNoureddine"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://www.linkedin.com/in/bahij-noureddine-941b681b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | <a href="" ><img src="https://github.com/user-attachments/assets/707047a2-7097-41ef-a34c-00ae1b2d8ca3" width="60"></a> |
 Cauan Barbaglio| Developer | <a href="https://github.com/Cauanvmb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://www.linkedin.com/in/cauan-barbaglio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>| <a href="" ><img src="https://avatars.githubusercontent.com/u/127343662?v=4" width="60"></a>
 Naiara Santos | Developer| <a href="https://github.com/NaiaraSantos3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white5" alt="GitHub"></a> <a href="https://www.linkedin.com/in/naiara-santos-73b83a186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |<img src="https://avatars.githubusercontent.com/u/127265827?v=4" width="60">|
 Raul Neto | Developer | <a href="https://github.com/raulnt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/raul-neto-b51b24157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |<img src="https://avatars.githubusercontent.com/u/127263427?v=4" width="60">|
@@ -79,20 +78,20 @@ RFN4|Modelagem de Banco de Dados;|
 | 3 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards finalizados por período para que eu possa acompanhar a entrega de tarefas ao longo do tempo. | 1 | RF1, RF4, RFN2 | ✅ | 
 | 4 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 1 | RF1, RF5 | ✅ | 
 | 5 | Dashboard de Indicadores | Como um operador, quero visualizar o tempo médio de execução de cards, para que eu possa analisar a minha eficiência no processo de desenvolvimento. | 2 | RF1, RF6, RFN2 | 🔧 |
-| 6 | Dashboard de Indicadores | Como um operador, quero visualizar os retrabalhos, para que eu possa acompanhar os meus cards que retornaram para o desenvolvimento devido a bugs. | 2 | RF1, RF8, RFN2 | 🔧 |
-| 7 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 2 | RF1, RF5 | 🔧 | 
-| 8 | Dashboard de Indicadores | Como um admin, quero visualizar o tempo médio de execução de cards, para que eu possa analisar a eficiência no processo de desenvolvimento. | 2 | RF1, RF6 | 🔧 |
-| 9 | Dashboard de Indicadores | Como um admin, quero visualizar os cards por colaborador, para que eu possa analisar a distribuição de tarefas. | 2 | RF1, RF7 | 🔧 |
-| 10 | Dashboard de Indicadores | Como um admin, quero visualizar os retrabalhos, para que eu possa acompanhar os cards que retornaram para o desenvolvimento devido a bugs. | 2 | RF1, RF8 | 🔧 | 
+| 6 | Dashboard de Indicadores | Como um operador, quero visualizar os retrabalhos, para que eu possa acompanhar os meus cards que retornaram para o desenvolvimento devido a bugs. | 2 | RF1, RF8, RFN2 | ✅ |
+| 7 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por status, para que eu possa entender o andamento das tarefas. | 2 | RF1, RF5 | ✅ | 
+| 8 | Dashboard de Indicadores | Como um admin, quero visualizar o tempo médio de execução de cards, para que eu possa analisar a eficiência no processo de desenvolvimento. | 2 | RF1, RF6 | ✅ |
+| 9 | Dashboard de Indicadores | Como um admin, quero visualizar os cards por colaborador, para que eu possa analisar a distribuição de tarefas. | 2 | RF1, RF7 | ✅ |
+| 10 | Dashboard de Indicadores | Como um admin, quero visualizar os retrabalhos, para que eu possa acompanhar os cards que retornaram para o desenvolvimento devido a bugs. | 2 | RF1, RF8 | ✅ | 
 | 11 | Dashboard de Indicadores | Como gestor, quero visualizar indicadores de meu time, para que eu possa avaliar a performance dos colaboradores e do time como um todo. | 2 | RF1, RNF2 | 🔧 |  
-| 12 | Dashboard de Indicadores | Como gestor, quero visualizar os retrabalhos relacionados ao meu projeto, para que eu possa monitorar a qualidade do trabalho e identificar áreas que precisam de melhorias. | 2 | RF1, RF8 | 🔧 | 
-| 19 | Autenticação | Como um usuário, eu desejo que o sistema realize a autenticação do usuário, para que apenas usuários autorizados possam acessar as funcionalidades do sistema. | 2 | RF9, RFN1 | 🔧 |
-| 13 | Níveis de Acesso | Como admin, quero configurar os níveis de acesso para diferentes tipos de usuários (Operador, Gestor, Admin), para garantir que as permissões sejam corretamente atribuídas. | 2 | RF9, RFN1, RFN4 | 🔧 | 
-| 14 | Gestão de Acessos | Como admin, quero garantir que apenas um único gestor tenha acesso aos projetos do seu time, para evitar conflitos de acesso entre diferentes gestores. | 3 | RF9, RFN1, RFN4 | ⛔ |
-| 15 | Dashboard de Indicadores | Como um admin, quero visualizar indicadores relacionados a todos os cards de todos os times, para que eu possa acompanhar a carga de trabalho e a distribuição das tarefas. | 3 | RF01, RFN01, RFN02, RFN03 | ⛔ |
-| 16 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição de tarefas. | 3 | RF1, RF2 | ⛔ | 
-| 17 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das tarefas ao longo do tempo. | 3 | RF1, RF3 | ⛔ |
-| 18 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards finalizados por período, para que eu possa acompanhar a entrega das tarefas ao longo do tempo. | 3 | RF1, RF4 | ⛔ | 
+| 12 | Dashboard de Indicadores | Como gestor, quero visualizar os retrabalhos relacionados ao meu projeto, para que eu possa monitorar a qualidade do trabalho e identificar áreas que precisam de melhorias. | 2 | RF1, RF8 | ✅ | 
+| 19 | Autenticação | Como um usuário, eu desejo que o sistema realize a autenticação do usuário, para que apenas usuários autorizados possam acessar as funcionalidades do sistema. | 2 | RF9, RFN1 | ✅ |
+| 13 | Níveis de Acesso | Como admin, quero configurar os níveis de acesso para diferentes tipos de usuários (Operador, Gestor, Admin), para garantir que as permissões sejam corretamente atribuídas. | 2 | RF9, RFN1, RFN4 | ✅ | 
+| 14 | Gestão de Acessos | Como admin, quero garantir que apenas um único gestor tenha acesso aos projetos do seu time, para evitar conflitos de acesso entre diferentes gestores. | 3 | RF9, RFN1, RFN4 | 🔧 |
+| 15 | Dashboard de Indicadores | Como um admin, quero visualizar indicadores relacionados a todos os cards de todos os times, para que eu possa acompanhar a carga de trabalho e a distribuição das tarefas. | 3 | RF01, RFN01, RFN02, RFN03 | 🔧 |
+| 16 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição de tarefas. | 3 | RF1, RF2 | 🔧 | 
+| 17 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das tarefas ao longo do tempo. | 3 | RF1, RF3 | 🔧 |
+| 18 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards finalizados por período, para que eu possa acompanhar a entrega das tarefas ao longo do tempo. | 3 | RF1, RF4 | 🔧 | 
 
 
 
@@ -203,8 +202,8 @@ Feira de Soluções| 29/05/2024| -------------
 
 <summary>Sprint 2</summary>
 
+![image](https://github.com/user-attachments/assets/75b08ab9-7813-4b10-835b-47ec562b1c4f)
 </details>
-![image](https://github.com/user-attachments/assets/177c200d-e34c-4ab6-a1a2-48d573c3a485)
 
 <details>
 
