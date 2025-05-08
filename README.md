@@ -281,9 +281,9 @@ Nem todas as entregas planejadas foram concluídas, mas houve progresso signific
 
 ## Documentação 📜
 
-<a href="https://www.figma.com/design/0fPK99OjIhPviwxL9N9pFi/Vision?node-id=0-1&t=aPUYPgpY4FKNfvbQ-1">Wireframe do Projeto</a>
+<a href="https://www.figma.com/design/0fPK99OjIhPviwxL9N9pFi/Vision?node-id=0-1&t=aPUYPgpY4FKNfvbQ-1">Wireframe</a>
 
-
+<a href="https://github.com/new-ge/VISION/wiki">Documentação</a>
   
 ## Tecnologias Utilizadas 💻
   
