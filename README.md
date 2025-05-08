@@ -177,11 +177,53 @@ Feira de Soluções| 29/05/2024| -------------
 
 <summary>Sprint 2</summary>
 
+📌 Sprint Report – Projeto VISION
+
+🧭 Objetivos da Sprint
+
+Nesta sprint, tivemos como foco:
+
+- Migração parcial da documentação do Teams para o Jira.
+- Organização e estruturação do fluxo de tarefas.
+- Alinhamento da equipe para continuidade do projeto.
+
+Nem todas as entregas planejadas foram concluídas, mas houve progresso significativo em pontos estruturais. A documentação já disponível no Teams começou a ser transferida para o Jira, o que trará maior visibilidade e rastreabilidade para as próximas etapas.
+
+---
+
+✅ Pontos Positivos
+
+- **Centralização de Informações**: O Teams continuou sendo a principal ferramenta de comunicação e organização, o que garantiu uma base sólida para as dailys e acompanhamento do progresso.
+- **Documentação**: Iniciamos com sucesso a migração dos registros para o Jira.
+- **Decisão Coletiva**: A saída de um integrante do grupo foi realizada por meio de votação unânime, refletindo um processo maduro e bem conduzido.
+
+---
+
+⚠️ Desafios e Obstáculos
+
+- **Saída de Membro**: A equipe passou por uma reestruturação após a saída de um integrante, o que exigiu redistribuição de responsabilidades.
+- **Entregas Incompletas**: Algumas tasks não foram concluídas, impactadas pelo tempo disponível e reorganização interna.
+
+---
+
+💡 Lições Aprendidas
+
+- **Planejamento Realista**: Precisamos ajustar o escopo e a priorização das tarefas de acordo com a real capacidade do time.
+- **Integração de Ferramentas**: A adoção do Jira deve ser concluída nas próximas sprints para otimizar o acompanhamento e gestão das tasks.
+- **Comunicação Clara**: O processo de decisão coletiva foi eficaz. Manter esse padrão de alinhamento será essencial para os próximos ciclos.
+
+---
+
+📂 Documentação
+
+- Documentação atual: [Teams (acesso interno)](https://teams.microsoft.com/)
+- Migração em andamento para: [Jira (em progresso)](https://www.atlassian.com/software/jira)
 
 </details>
 
-<details>
 
+<datails>
+     
 <summary>Sprint 3</summary>
 
 </details>
