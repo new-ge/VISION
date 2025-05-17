@@ -111,6 +111,96 @@ Feira de Soluções| 29/05/2024| -------------
 ## Resumo de Sprints 📋
 
 <details>
+
+<summary> Kick Off </summary>
+
+Baseado na Matriz de Competências do semestre.
+As opções de projeto são:
+
+Aplicação Web com Dashboard
+
+Projeto e Implementação de Data Warehouse
+(Será mantido um dos temas conforme o preenchimento do desafio e requisitos apresentados para os alunos).
+
+Conhecimentos e Tecnologias Ensinadas no Semestre
+Baseado na Matriz de Competências do semestre, os alunos aprenderão a:
+
+Construir projetos ETL.
+
+Identificar e exemplificar os itens presentes em uma arquitetura do ambiente de Data Warehouse.
+
+Identificar, em um estudo de caso/requisitos, a granularidade de dados, fatos, medidas, dimensões e hierarquia de dimensões.
+
+Projetar Modelos Dimensionais Estrela (Star) e Floco de Neve (Snowflake).
+
+Implementar consultas/relatórios usando ferramentas OLAP (Online Analytical Processing).
+
+Aplicar conceitos e definir ferramentas de DevOps ao longo de todo o projeto, com justificativas técnicas para cada ferramenta.
+
+Título do Desafio
+Ferramenta para Levantar Indicadores para Gestão de Projetos
+
+Descrição do Desafio
+A utilização de ferramentas de gestão de projetos permite organizar as atividades de maneira eficaz e visual, tornando o processo mais fluido e transparente para toda a equipe.
+
+Em um quadro Kanban, é possível extrair diversos indicadores sobre o andamento de um projeto, como:
+
+Quantidade de cards criados em um período.
+
+Quantidade de cards que receberam uma etiqueta específica.
+
+Tempo médio de execução para a finalização de um card.
+
+Quantidade de cards por integrante da equipe, entre outros.
+
+Neste desafio, será necessário desenvolver uma plataforma que se integre ao banco de dados da ferramenta Taiga (Taiga: Your opensource agile project management software ), a fim de gerar diferentes indicadores que facilitam a visualização das informações sobre o andamento dos projetos.
+
+A plataforma deve ser acessível por diferentes tipos de usuários, com os seguintes níveis de acesso:
+
+Operador: Visão dos indicadores relacionados aos cards sob sua responsabilidade.
+
+Gestor: Visão dos indicadores relacionados aos cards sob sua responsabilidade e de sua equipe.
+
+Admin: Visão de todos os indicadores relacionados aos cards de todos os times.
+
+A solução também deve contar com uma API para integração com outros sistemas de gestão que utilizam a ferramenta de quadro Kanban, como Trello, Jira, etc.
+
+Requisitos Funcionais
+Criar um dashboard com os seguintes indicadores:
+
+Quantidade de cards por etiqueta.
+
+Quantidade de cards criados por período.
+
+Quantidade de cards finalizados por período.
+
+Quantidade de cards por status (coluna do Kanban).
+
+Tempo médio de execução de um card.
+
+Cards por colaborador.
+
+Retrabalhos.
+
+Implementar indicadores acessíveis por níveis de acesso (diferentes equipes).
+
+Criar uma API para integração com outros sistemas (Trello, Jira, etc.).
+
+Requisitos Não Funcionais
+Documentação da API – Application Programming Interface.
+
+Responsivo.
+
+Manual do Usuário.
+
+Modelagem de Banco de Dados.
+
+Outras Informações Fornecidas pelo Parceiro
+Informações adicionais relevantes ao projeto. ***** Validar com PO
+
+</details>
+
+<details>
      
 <summary>Sprint 1</summary>
 
