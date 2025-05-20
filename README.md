@@ -359,12 +359,15 @@ Nem todas as entregas planejadas foram concluídas, mas houve progresso signific
 
 <summary>Sprint 2</summary>
 
+![Image](https://github.com/user-attachments/assets/d2ec8a93-b125-400f-96d4-371672c68904)
+
 </details>
 
 <details>
 
 <summary>Sprint 3</summary>
 
+![Image](https://github.com/user-attachments/assets/f5a53826-a28a-4a54-96fe-3af8301e03dd)
 
 </details>
 
