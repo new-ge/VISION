@@ -5,7 +5,9 @@
 
 Este projeto foi desenvolvido pelo grupo **New Generation**, formado por estudantes do 5º semestre de Tecnologia em Banco de Dados da Fatec São José dos Campos.
 
-A proposta é criar a **Vision**, uma ferramenta de visualização de indicadores integrada à plataforma [Taiga](https://taiga.io/), com foco em tornar a gestão de projetos mais eficiente, visual e transparente. A Vision permitirá que usuários acompanhem o progresso de tarefas através de dados como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e mais.
+A proposta é criar a **VISION**, uma ferramenta de visualização de indicadores integrada à plataforma [Taiga](https://taiga.io/), com foco em tornar a gestão de projetos mais eficiente, visual e transparente. A Vision permitirá que usuários acompanhem o progresso de tarefas através de dados como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e mais.
+
+### Youtan: A Empresa Cliente
 
 O projeto é uma solução sob medida para a **Youtan**, empresa especializada no desenvolvimento de softwares e aplicativos sob demanda desde 2002. Localizada no Parque Tecnológico de São José dos Campos e membro do TIC Vale — o maior cluster de TI do Brasil — a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. Além disso, oferece o **SIGI**, seu próprio ERP em modelo SaaS, voltado para empresas B2B de pequeno e médio porte.
 
