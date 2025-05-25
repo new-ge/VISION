@@ -343,6 +343,7 @@ Nem todas as entregas planejadas foram concluídas, mas houve progresso signific
 
 <summary>Sprint 3</summary>
 
+![image](https://github.com/user-attachments/assets/bf49cd0e-9d93-4176-8d6a-e4f7c3585cb1)
 
 </details>
 
